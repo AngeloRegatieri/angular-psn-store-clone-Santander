@@ -18,7 +18,7 @@ Para executar este projeto em sua máquina local, siga as etapas abaixo:
 #### Clonar o repositório
 Clone este repositório em seu ambiente de desenvolvimento local usando o seguinte comando:
 
-	git clone https://github.com/AngeloRegatieri/playstation-store-clone-Santander.git
+	git clone https://github.com/AngeloRegatieri/angular-psn-store-clone-Santander
 
 #### Instalar dependências
 Localize a pasta do projeto, e execute o seguinte comando para instalar todas as dependências necessárias: 
