@@ -1,6 +1,6 @@
 # Clone da PlayStation Store - Projeto Angular
 
-Este é um projeto introdutório que recria a tela da loja da PlayStation (PlayStation Store) utilizando o framework Angular. É uma ótima maneira de aprimorar seus conhecimentos em Angular e desenvolvimento web.
+Este é um projeto introdutório que recria a tela da loja da PlayStation (PlayStation Store) utilizando o framework Angular. Foi uma ótima maneira de aprimorar meus conhecimentos em Angular e desenvolvimento web.
 
 ## Instruções de Uso
 
